@@ -35,7 +35,7 @@ Here are some test data:
 
 ```
 Basket: FR1, AP1, FR1, CF1
-Total price expected: $22.25
+Total price expected: $19.34
 ```
 
 ```
